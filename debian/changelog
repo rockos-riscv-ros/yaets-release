@@ -1,0 +1,12 @@
+ros-jazzy-yaets (0.0.2-1trixie) trixie; urgency=high
+
+  * Add e2e traces
+  * One extra exmaple in README
+  * Add end to end traces
+  * Adjust width
+  * Initial commit
+  * Contributors: Francisco Martín Rico
+
+ -- Francisco Martín Rico <fmrico@gmail.com>  Sun, 24 Nov 2024 16:00:00 -0000
+
+
